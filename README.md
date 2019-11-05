@@ -1,1 +1,2 @@
 # Zajecia
+Arkadiusz Chmura
