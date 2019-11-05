@@ -11,7 +11,7 @@ public class Commander extends Unit {
 
   @Override
   public void accept(UnitVisitor visitor) {
-    visitor.visitCommander(this);
+    visitor.visitCommander(this); //accepting a visitor
     super.accept(visitor);
   }
 
