@@ -17,6 +17,6 @@ public class Commander extends Unit {
 
   @Override
   public String toString() {
-    return "commander";
+    return "command";
   }
 }
